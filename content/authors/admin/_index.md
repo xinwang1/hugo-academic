@@ -1,36 +1,39 @@
 ---
 # Display name
-title: 王鑫
+title: Xin Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 资深研究员
+role: Staff Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 百度研究院量子计算研究所
+- name: Baidu Research
   url: https://quantum.baidu.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究重点关注...
+bio: The main focus of my research is to better understand the limits of information processing with quantum systems and the power of quantum artificial intelligence.
 
 # Interests to show in About widget
 interests:
-- 量子信息
-- 量子计算
-- 量子机器学习
+- Quantum Information
+- Quantum Computation
+- Machine Learning
+- Optimization
+- Quantum Control
+- Quantum Programming
 
 # Education to show in About widget
 education:
   courses:
-  - course: 博士，量子信息与量子计算
-    institution: 悉尼科技大学
+  - course: PhD in Quantum Information
+    institution: University of Technology Sydney
     year: 2018
 
-  - course: 理学学士（数学学院，吴玉章荣誉学院）
-    institution: 四川大学
+  - course: BSc in Mathematics
+    institution: Sichuan University
     year: 2014
 
 # Social/Academic Networking
@@ -40,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "mailto:wangxinfelix@gmail.com"
 - icon: cv
   icon_pack: ai
   link: uploads/cv.pdf
@@ -68,8 +71,11 @@ email: ""
 highlight_name: true
 ---
 
-王鑫博士，现任百度研究院量子计算研究所资深研究员。他于2019年7月加入百度，负责量子计算研究和百度量子平台开发。他于2018年在悉尼科技大学获得博士学位，获评校长杰出博士论文，并入选教育部国家优秀自费留学生奖学金，2018年-2019年作为Hartree Fellow在美国马里兰大学量子信息与计算机科学联合中心从事量子计算研究。
+I am a Staff Researcher at the [Institute for Quantum Computing](https://quantum.baidu.com/) at [Baidu Research](http://research.baidu.com/Index). At Baidu Quantum, I focus on the research on quantum computing and the development of [Baidu Quantum Platform](https://quantum.baidu.com/). In particular, I lead the development of [Paddle Quantum](https://qml.baidu.com/), a Python library for quantum machine learning. My research investigates a broad range of perspectives of quantum computing and quantum information, including quantum communication, entanglement theory, near-term quantum applications, quantum machine learning, and quantum control. I am also an editor of [Quantum](https://quantum-journal.org/).
 
-他的研究兴趣涵盖量子信息、量子计算、量子人工智能，研究成果在Physical Review Letters, IEEE Transactions on Information Theory, Communications in Mathematical Physics, npj Quantum Information，Quantum，AAAI, ISIT等物理、计算机、人工智能领域的顶级期刊顶级会议发表40余篇论文，在量子计算顶会QIP、TQC、AQIS作口头报告二十余次。特别的，他在2020年受邀在量子计算顶会TQC 2020作邀请报告（大陆首个），曾任亚洲量子信息科学会议AQIS2019、AQIS2021等会议的程序委员会成员，目前担任量子国际高水平《Quantum》期刊的编辑，以及Nature Communications等多个顶级期刊和会议的审稿人。
+I was a Hartree Postdoctoral Fellow at the Joint Center for Quantum Information and Computer Science ([QuICS](http://quics.umd.edu/people)) at the University of Maryland, College Park. I received my doctorate in quantum information from the University of Technology Sydney in 2018 (Chancellor’s List for Outstanding Thesis), under the supervision of Prof. [Runyao Duan](http://www.uts.edu.au/staff/runyao.duan) and Prof. [Andreas Winter](https://scholar.google.com.au/citations?user=UmMq2rEAAAAJ&hl=en). I obtained my B.S. in mathematics (with Wu Yuzhang Honor) from Sichuan University in 2014.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+A full list of my publications can be found on [Google Scholar](https://scholar.google.com.au/citations?user=BFkAPOQAAAAJ&hl=en) or [a](https://arxiv.org/a/wang_x_10.html)[rXiv](https://arxiv.org/a/wang_x_10.html). My full CV is available *[here]( https://www.xinwang.info/files/cv.pdf )*. 
+
+***Hiring***: We are looking for *self-motivated* ***student interns*** interested in quantum computation, quantum machine learning, and quantum information (see, [知乎文章](https://zhuanlan.zhihu.com/p/94066205), or [中文主页](https://qclab.wang/post/intern/) ). If you are interested in joining the journey from the fundamentals of quantum information to the frontier of quantum computing industry, please feel free to contact!
+
