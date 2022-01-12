@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 资深研究员
-    company: 百度研究院
+  - title: Staff Researcher and Tech Leader
+    company: Institute for Quantum Computing, Baidu Research
     company_url: ''
     company_logo: 
-    location: 北京
+    location: Beijing, China
     date_start: '2019-07-01'
     date_end: ''
-    description: 量子人工智能研究，百度量子平台开发。
+    description: Research on quantum machine learning and platform development.
     
   - title: Hartree Fellow
-    company: 马里兰大学
+    company: QuICS, University of Maryland, College Park
     company_url: ''
     company_logo: 
-    location: 马里兰
+    location: Maryland, USA
     date_start: '2018-08-01'
     date_end: '2019-06-30'
-    description: 从事量子纠缠、容错量子计算、量子模拟、量子资源理论方面的研究。
+    description: Research on quantum entanglement, fault-tolerent quantum computing, quantum simulation.
 
 design:
   columns: '2'
