@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: 资深研究员
+    company: 百度研究院
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: 北京
+    date_start: '2019-07-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: 量子人工智能研究，百度量子平台开发。
+    
+  - title: Hartree Fellow
+    company: 马里兰大学
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: 马里兰
+    date_start: '2018-08-01'
+    date_end: '2019-06-30'
+    description: 从事量子纠缠、容错量子计算、量子模拟、量子资源理论方面的研究。
 
 design:
   columns: '2'
