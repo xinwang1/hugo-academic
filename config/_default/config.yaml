@@ -5,7 +5,7 @@
 
 title: Xin Wang # Website name
 baseurl: 'https://qclab.wang/' # Website URL
-copyright: '© {2022} Xin Wang' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 Xin Wang' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
