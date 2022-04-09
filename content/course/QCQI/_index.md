@@ -17,10 +17,6 @@ type: book
 
 ## Program overview
 
-The  overview is to be added.
-
-## Courses in this program
-
 {{< list_children >}}
 
 ## Meet your instructor

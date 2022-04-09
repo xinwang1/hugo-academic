@@ -1,8 +1,8 @@
 ---
 title: More
-date: '2021-01-01'
+date: '2022-01-01'
 type: book
-weight: 30
+weight: 40
 highlight: true
 tags:
   - more
