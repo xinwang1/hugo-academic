@@ -74,8 +74,7 @@ In the following list, (*) indicates delivery by my co-author.
 - **Asymptotic entanglement manipulation under PPT operations: new bounds and irreversibility**  
   QIP 2017, Microsoft Research, Seattle, Jan 2017.  [[slides](https://xinwangonline.files.wordpress.com/2017/01/qip17_ent_xw.pdf)][[video](https://www.youtube.com/watch?v=EufpsdJxVV0&t=1589s)]
 
-- **Evaluating communication capabilities of quantum channels**
-  QCQIP 2017 (Invited talk), AMSS, Beijing, Nov 2017.
+- **Evaluating communication capabilities of quantum channels** <br>QCQIP 2017 (Invited talk), AMSS, Beijing, Nov 2017.
 
 - **Irreversibility of Asymptotic Entanglement Manipulation Under PPT-preserving Operations**  
   AQIS 2017 (**Long talk**), NUS, Singapore, Sep 2017.
@@ -83,5 +82,4 @@ In the following list, (*) indicates delivery by my co-author.
 - **Separation between quantum Lovász number and entanglement-assisted zero-error classical capacity**  
   AQIS 2016 Taipei, Sep 2016. [[slides](https://xinwangonline.files.wordpress.com/2017/01/zero-error_aqis.pdf)]
 
-- **A semidefinite programming upper bound of quantum capacity**
-  ISIT 2016, Barcelona, July 2016.
+- **A semidefinite programming upper bound of quantum capacity** <br>ISIT 2016, Barcelona, July 2016.
