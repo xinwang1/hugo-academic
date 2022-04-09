@@ -12,6 +12,6 @@ comments: false  # Show comments?
 # header:
 #   caption: ""
 #   image: ""
-# ---
+---
 
 Recommanded resources of learning and practicing quantum computing will be added soon.
