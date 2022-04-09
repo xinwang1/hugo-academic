@@ -1,11 +1,11 @@
 ---
-title: Python basics
-date: '2021-01-01'
+title: QC basics
+date: '2022-01-01'
 type: book
 weight: 20
 ---
 
-Build a foundation in Python.
+TBA.
 
 <!--more-->
 
@@ -13,9 +13,11 @@ Build a foundation in Python.
 
 ## Learn
 
-{{< youtube rfscVS0vtbw >}}
+{{< youtube T2DXrs0OpHU >}}
 
-## Quiz
+
+
+<!-- ## Quiz
 
 {{< spoiler text="What is the difference between lists and tuples?" >}}
 Lists
@@ -33,4 +35,4 @@ Tuples
 
 {{< spoiler text="Is Python case-sensitive?" >}}
 Yes
-{{< /spoiler >}}
+{{< /spoiler >}} -->
