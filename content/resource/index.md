@@ -19,5 +19,4 @@ Recommanded resources of learning and practicing quantum computing will be added
 
 ---
 
-
-2022-04-09
+2022
