@@ -33,41 +33,28 @@ In the following list, (*) indicates delivery by my co-author.
 
 #### 2020-present
 
-- **(Invited talk) Quantum resource theories of quantum channels** 
-  TQC 2020, University of Latvia, Riga, Latvia.
-- **Optimizing the fundamental limits for quantum and private communication**
-  TQC 2020, University of Latvia, Riga, Latvia.
-- **Quantifying the magic resources for quantum computation** 
-  QIP 2020, Peng Cheng Laboratory and SUSTECh, Shenzhen, China.
-- **Near-term Quantum Algorithms for Quantum Information**
-  Workshop on Quantum Computing and Quantum Information 2020, Institute of Physics, CAS, Beijing, China.
-- **Measurement Error Mitigation via Truncated Neumann Series** *
-  TQC 2021, University of Latvia, Riga, Latvia.
-- **Noise-Assisted Quantum Autoencoder** *
-  AQIS 2021, University of Tokyo, Japan.
-- **LOCCNet: a machine learning framework for distributed quantum information processing** *
-  AQIS 2021, University of Tokyo, Japan.
-- **Symmetric distinguishability as a quantum resource** *
-  AQIS 2021, University of Tokyo, Japan.
-- **Information recoverability of noisy quantum states** *
-  TQC 2022, University of Illinois at Urbana-Champaign, USA.
+- **(Invited talk) Quantum resource theories of quantum channels** <br>TQC 2020, University of Latvia, Riga, Latvia.
+- **Optimizing the fundamental limits for quantum and private communication** <br>TQC 2020, University of Latvia, Riga, Latvia.
+- **Quantifying the magic resources for quantum computation** <br>QIP 2020, Peng Cheng Laboratory and SUSTECh, Shenzhen, China.
+- **Near-term Quantum Algorithms for Quantum Information** <br>Workshop on Quantum Computing and Quantum Information 2020, Institute of Physics, CAS, Beijing, China.
+- **Measurement Error Mitigation via Truncated Neumann Series** * <br>TQC 2021, University of Latvia, Riga, Latvia.
+- **Noise-Assisted Quantum Autoencoder** * <br>AQIS 2021, University of Tokyo, Japan.
+- **LOCCNet: a machine learning framework for distributed quantum information processing** * <br>AQIS 2021, University of Tokyo, Japan.
+- **Symmetric distinguishability as a quantum resource** * <br>AQIS 2021, University of Tokyo, Japan.
+- **Information recoverability of noisy quantum states** * <br>TQC 2022, University of Illinois at Urbana-Champaign, USA.
 
 #### 2016-2019
 
-- **Entanglement cost of quantum state preparation and channel simulation**
-  QIP 2019, JILA, University of Colorado, Jan 2019. [[slides](https://xinwangonline.files.wordpress.com/2019/01/qip2019_talk_xw.pdf)][[video](https://www.youtube.com/watch?v=_ne5fS6xHmA&t=80s&list=PLGdMsPGuoD25wLgnY7RBoTAxsnQEMsNA0&index=6)]
+- **Entanglement cost of quantum state preparation and channel simulation** <br>QIP 2019, JILA, University of Colorado, Jan 2019. [[slides](https://xinwangonline.files.wordpress.com/2019/01/qip2019_talk_xw.pdf)][[video](https://www.youtube.com/watch?v=_ne5fS6xHmA&t=80s&list=PLGdMsPGuoD25wLgnY7RBoTAxsnQEMsNA0&index=6)]
 
-- **On converse bounds for classical communication over quantum channels** *
-  QIP 2018, QuTech, Delft, Jan 2018. [[slides](https://xinwangonline.files.wordpress.com/2018/01/qip18_c-capacity.pdf)]  
+- **On converse bounds for classical communication over quantum channels** * <br>QIP 2018, QuTech, Delft, Jan 2018. [[slides](https://xinwangonline.files.wordpress.com/2018/01/qip18_c-capacity.pdf)]  
 
-- **Efficiently computable upper bounds for quantum communication**
-  QIP 2018, QuTech, Delft, Jan 2018. [[slides](https://xinwangonline.files.wordpress.com/2018/01/qip18_q-capacity.pdf)]
+- **Efficiently computable upper bounds for quantum communication** <br>QIP 2018, QuTech, Delft, Jan 2018. [[slides](https://xinwangonline.files.wordpress.com/2018/01/qip18_q-capacity.pdf)]
 
 - **Semidefinite optimization for quantum information processing**  
   [GAMP/QMATH Lecture](http://qmath.ku.dk/events/quantum-lunch/quantum-lunch-2018/xin/) (Invited talk), University of Copenhagen, Jan 2018.
 
-- **Semidefinite programming strong converse bounds for quantum channel capacities**
-  QIP 2017, Microsoft Research, Seattle, Jan 2017.  [[slides](https://xinwangonline.files.wordpress.com/2017/01/qip17_cap_xw.pdf)][[video](https://www.youtube.com/watch?v=vl0pTbHPUh0&t=450s)]  
+- **Semidefinite programming strong converse bounds for quantum channel capacities**<br>QIP 2017, Microsoft Research, Seattle, Jan 2017.  [[slides](https://xinwangonline.files.wordpress.com/2017/01/qip17_cap_xw.pdf)][[video](https://www.youtube.com/watch?v=vl0pTbHPUh0&t=450s)]  
   ISIT 2017, RWTH Aachen University, Aachen, Jun 2017.  
   BIID 5, NUS, Singapore, July 2017.
 
