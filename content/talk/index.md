@@ -35,7 +35,7 @@ In the following list, (*) indicates delivery by my co-author.
 
 - **(Invited talk) Quantum resource theories of quantum channels** 
   TQC 2020, University of Latvia, Riga, Latvia.
-- **Optimizing the fundamental limits for quantum and private communication** 
+- **Optimizing the fundamental limits for quantum and private communication**
   TQC 2020, University of Latvia, Riga, Latvia.
 - **Quantifying the magic resources for quantum computation** 
   QIP 2020, Peng Cheng Laboratory and SUSTECh, Shenzhen, China.
