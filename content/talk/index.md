@@ -14,8 +14,4 @@ header:
   image: ""
 ---
 
-TBA. 
-
-+++
-
-+++
+The detailed talk list could be found in my CV. More information will be provided in the future.
