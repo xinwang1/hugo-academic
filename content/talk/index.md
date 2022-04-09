@@ -27,11 +27,17 @@ The detailed talk list could be found in my CV. More information will be updated
 - IEEE International Symposium on Information Theory (ISIT)
 - Workshop on Beyond I.I.D. in Information Theory (BIID)
 - Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC)
+- AAAI Conference on Artificial Intelligence (AAAI)
 
-The Conference on Quantum Information Processing (**QIP**) is the most competitive  
-and important conference in quantum information science. **AQIS** and **TQC** are both international leading conferences in the field of quantum information, and **ISIT** is the main event in information theory. In the above list, (*) indicates delivery by my co-author.
+The Conference on Quantum Information Processing (**QIP**) is the most competitive and important conference in quantum information science. **AQIS** and **TQC** are both international leading conferences in the field of quantum information, and **ISIT** is the main event in information theory. 
 
-**Selected Talks**
+
+
+In the following list, (*) indicates delivery by my co-author.
+
+### **Selected Talks**
+
+#### 2020-present
 
 - **(Invited talk) Quantum resource theories of quantum channels** 
   TQC 2020, University of Latvia, Riga, Latvia.
@@ -39,9 +45,25 @@ and important conference in quantum information science. **AQIS** and **TQC**
   TQC 2020, University of Latvia, Riga, Latvia.
 - **Quantifying the magic resources for quantum computation** 
   QIP 2020, Peng Cheng Laboratory and SUSTECh, Shenzhen, China.
+- **Near-term Quantum Algorithms for Quantum Information**
+  Workshop on Quantum Computing and Quantum Information 2020, Institute of Physics, CAS, Beijing, China.
+- **Measurement Error Mitigation via Truncated Neumann Series** *
+  TQC 2021, University of Latvia, Riga, Latvia.
+- **Noise-Assisted Quantum Autoencoder** *
+  AQIS 2021, University of Tokyo, Japan.
+- **LOCCNet: a machine learning framework for distributed quantum information processing** *
+  AQIS 2021, University of Tokyo, Japan.
+- **Symmetric distinguishability as a quantum resource** *
+  AQIS 2021, University of Tokyo, Japan.
+- **Information recoverability of noisy quantum states** *
+  TQC 2022, University of Illinois at Urbana-Champaign, USA.
+
+#### 2016-2019
+
 - **Entanglement cost of quantum state preparation and channel simulation**
   QIP 2019, JILA, University of Colorado, Jan 2019. [[slides](https://xinwangonline.files.wordpress.com/2019/01/qip2019_talk_xw.pdf)][[video](https://www.youtube.com/watch?v=_ne5fS6xHmA&t=80s&list=PLGdMsPGuoD25wLgnY7RBoTAxsnQEMsNA0&index=6)]
-- **On converse bounds for classical communication over quantum channels**
+
+- **On converse bounds for classical communication over quantum channels** *
   QIP 2018, QuTech, Delft, Jan 2018. [[slides](https://xinwangonline.files.wordpress.com/2018/01/qip18_c-capacity.pdf)]  
 - **Efficiently computable upper bounds for quantum communication**
   QIP 2018, QuTech, Delft, Jan 2018. [[slides](https://xinwangonline.files.wordpress.com/2018/01/qip18_q-capacity.pdf)]
@@ -61,5 +83,3 @@ and important conference in quantum information science. **AQIS** and **TQC**
   AQIS 2016 Taipei, Sep 2016. [[slides](https://xinwangonline.files.wordpress.com/2017/01/zero-error_aqis.pdf)]
 - **A semidefinite programming upper bound of quantum capacity**
   ISIT 2016, Barcelona, July 2016.
-- **Quantifying the magic resources for quantum computation** 
-  QIP 2020, Peng Cheng Laboratory and SUSTECh, Shenzhen, China.
