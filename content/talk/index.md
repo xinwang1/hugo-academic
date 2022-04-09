@@ -14,11 +14,7 @@ header:
   image: ""
 ---
 
-
-
 The detailed talk list could be found in my CV. More information will be updated in the future.
-
-
 
 **My work has been presented at:**
 
@@ -30,8 +26,6 @@ The detailed talk list could be found in my CV. More information will be updated
 - AAAI Conference on Artificial Intelligence (AAAI)
 
 The Conference on Quantum Information Processing (**QIP**) is the most competitive and important conference in quantum information science. **AQIS** and **TQC** are both international leading conferences in the field of quantum information, and **ISIT** is the main event in information theory. 
-
-
 
 In the following list, (*) indicates delivery by my co-author.
 
@@ -65,21 +59,29 @@ In the following list, (*) indicates delivery by my co-author.
 
 - **On converse bounds for classical communication over quantum channels** *
   QIP 2018, QuTech, Delft, Jan 2018. [[slides](https://xinwangonline.files.wordpress.com/2018/01/qip18_c-capacity.pdf)]  
+
 - **Efficiently computable upper bounds for quantum communication**
   QIP 2018, QuTech, Delft, Jan 2018. [[slides](https://xinwangonline.files.wordpress.com/2018/01/qip18_q-capacity.pdf)]
+
 - **Semidefinite optimization for quantum information processing**  
   [GAMP/QMATH Lecture](http://qmath.ku.dk/events/quantum-lunch/quantum-lunch-2018/xin/) (Invited talk), University of Copenhagen, Jan 2018.
+
 - **Semidefinite programming strong converse bounds for quantum channel capacities**
   QIP 2017, Microsoft Research, Seattle, Jan 2017.  [[slides](https://xinwangonline.files.wordpress.com/2017/01/qip17_cap_xw.pdf)][[video](https://www.youtube.com/watch?v=vl0pTbHPUh0&t=450s)]  
   ISIT 2017, RWTH Aachen University, Aachen, Jun 2017.  
   BIID 5, NUS, Singapore, July 2017.
+
 - **Asymptotic entanglement manipulation under PPT operations: new bounds and irreversibility**  
   QIP 2017, Microsoft Research, Seattle, Jan 2017.  [[slides](https://xinwangonline.files.wordpress.com/2017/01/qip17_ent_xw.pdf)][[video](https://www.youtube.com/watch?v=EufpsdJxVV0&t=1589s)]
+
 - **Evaluating communication capabilities of quantum channels**
   QCQIP 2017 (Invited talk), AMSS, Beijing, Nov 2017.
+
 - **Irreversibility of Asymptotic Entanglement Manipulation Under PPT-preserving Operations**  
   AQIS 2017 (**Long talk**), NUS, Singapore, Sep 2017.
+
 - **Separation between quantum Lovász number and entanglement-assisted zero-error classical capacity**  
   AQIS 2016 Taipei, Sep 2016. [[slides](https://xinwangonline.files.wordpress.com/2017/01/zero-error_aqis.pdf)]
+
 - **A semidefinite programming upper bound of quantum capacity**
   ISIT 2016, Barcelona, July 2016.
